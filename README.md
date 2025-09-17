@@ -20,4 +20,4 @@
 
 ## Запуск
 ```bash
-python age_in_future.py
+python main.py
